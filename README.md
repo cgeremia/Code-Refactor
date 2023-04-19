@@ -41,5 +41,7 @@ Refactor code to meet accessibility standards
   My GitHub: https://github.com/cgeremia <br>
   Email me: g_cristina@live.com
   
+  ## Screenshot 
+  ![Screenshot](/Users/CG/bootcamp/module1/Develop/assets/images/Screenshot.png)
   
   
