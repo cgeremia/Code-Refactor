@@ -42,6 +42,6 @@ Refactor code to meet accessibility standards
   Email me: g_cristina@live.com
   
   ## Screenshot 
-  ![Screenshot](./images/Screenshot.png)
+ ![Screenshot](https://user-images.githubusercontent.com/112133093/233174899-cbbc6a0b-4d95-463a-b973-baad8c8c19a6.png)
   
   
