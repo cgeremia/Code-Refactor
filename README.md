@@ -42,6 +42,6 @@ Refactor code to meet accessibility standards
   Email me: g_cristina@live.com
   
   ## Screenshot 
-  ![Screenshot](/Users/CG/bootcamp/module1/Develop/assets/images/Screenshot.png)
+  ![Screenshot](Screenshot.png)
   
   
