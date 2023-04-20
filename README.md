@@ -42,6 +42,8 @@ Refactor code to meet accessibility standards
   Email me: g_cristina@live.com
   
   ## Screenshot 
-  ![Screenshot](./images/Screenshot.png)
+![Screenshot](../images/Screenshot.png)
+
+
   
   
